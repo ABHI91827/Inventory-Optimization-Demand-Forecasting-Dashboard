@@ -177,7 +177,7 @@ Determined required sales volume to achieve target revenue growth using Excel Go
 ---
 
 ## 📸 Dashboard Preview
- <img width="940" height="754" alt="image" src="https://github.com/user-attachments/assets/1cabf43f-ad76-4e45-9bb8-7f5a980cff5b" />
+ <img width="940" height="754" alt="image" src=" https://github.com/ABHI91827/Inventory-Optimization-Demand-Forecasting-Dashboard/blob/main/Inventory%20Demand%20Forecasting%20Dashboard.png?raw=true/">
 
 
 ## 📂 Project Structure
